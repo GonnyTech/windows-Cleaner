@@ -51,6 +51,8 @@ The utility can remove the following pre-installed Windows apps:
 - Microsoft Copilot
 - Microsoft Recall
 
+If you have any suggestions for improvement, please let me know in the 'Pull Requests' section.
+
 ## Warning
 ⚠️ Use this tool carefully as removing certain system apps might affect your Windows functionality. Make sure you understand which apps you're removing before proceeding.
 
