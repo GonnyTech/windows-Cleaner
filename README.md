@@ -10,7 +10,7 @@ A Python utility that unfucks Windows systems by removing bloatware, disabling a
 
 ## Prerequisites
 
-- Windows operating system
+- Windows 10/11 operating system
 - Python 3.x installed
 - Administrator privileges
 
