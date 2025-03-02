@@ -1,6 +1,6 @@
 ## Windows System Cleaner
 
-A Python utility to help clean up Windows systems by removing bloatware, disabling advertisements, and optionally installing VS Code.
+A Python utility that unfucks Windows systems by removing bloatware, disabling advertisements, and optionally installing VS Code.
 
 ## Features
 
