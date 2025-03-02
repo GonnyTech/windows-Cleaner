@@ -82,7 +82,7 @@ class WindowsCleaner:
             return
 
         print("Windows System Unfucker 1.0 by Samuele Gonnella")
-        print("=" * 40)
+        print("=" * 47)
         
         selected_apps = {}
         print("\nSelect apps to remove (y/n):")
