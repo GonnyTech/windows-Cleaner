@@ -81,7 +81,7 @@ class WindowsCleaner:
             print("Error: Administrator privileges required!")
             return
 
-        print("Windows System Unfucker 1.0 by Samuele Gonnella")
+        print("Windows System Unfucker v1.0 by Samuele Gonnella")
         print("=" * 47)
         
         selected_apps = {}
