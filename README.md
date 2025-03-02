@@ -17,9 +17,7 @@ A Python utility to help clean up Windows systems by removing bloatware, disabli
 ## Installation
 
 1. Clone this repository or download the `Cleaner.py` file
-2. Install the required package:
-```bash
-pip install elevate
+2. Install the required package: "pip install elevate"
 
 ## Usage
 1. Run the script:
@@ -30,6 +28,7 @@ pip install elevate
    - Choose whether to disable Windows advertisements
    - Decide if you want to install VS Code
 4. Review your selections and confirm to proceed with the cleanup
+
 ## Available Apps for Removal
 The utility can remove the following pre-installed Windows apps:
 
